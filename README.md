@@ -1,1 +1,1 @@
-# unique-word-generator
+# Unique Word Generator
