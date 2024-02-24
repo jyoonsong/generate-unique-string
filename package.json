@@ -1,14 +1,15 @@
 {
-  "name": "word-generator",
+  "name": "generate-unique-string",
   "version": "1.0.0",
-  "description": "word-generator generates random string using english words and numbers",
+  "description": "Generate a random string using english words and numbers",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jyoonsong/unique-word-generator.git"
+    "url": "git@github.com:jyoonsong/unique-word-generator.git"
   },
   "keywords": [
     "word",
@@ -21,9 +22,13 @@
     "generator"
   ],
   "author": "Jaeyoon Song",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jyoonsong/unique-word-generator/issues"
   },
-  "homepage": "https://github.com/jyoonsong/unique-word-generator#readme"
+  "homepage": "https://github.com/jyoonsong/unique-word-generator#readme",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "seedrandom": "^3.0.5"
+  }
 }
