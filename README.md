@@ -33,6 +33,12 @@ npm install generate-unique-string
 
 ### Examples
 
+First of all, import the `generate` method using the following syntax:
+
+```js
+import { generate } from "generate-unique-string";
+```
+
 If you want a string with a word that is 5 letters long followed by 3 numbers, you can do the following:
 
 ```js
