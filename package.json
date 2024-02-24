@@ -1,0 +1,29 @@
+{
+  "name": "word-generator",
+  "version": "1.0.0",
+  "description": "word-generator generates random string using english words and numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyoonsong/unique-word-generator.git"
+  },
+  "keywords": [
+    "word",
+    "random",
+    "unique",
+    "string",
+    "password",
+    "keyword",
+    "code",
+    "generator"
+  ],
+  "author": "Jaeyoon Song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyoonsong/unique-word-generator/issues"
+  },
+  "homepage": "https://github.com/jyoonsong/unique-word-generator#readme"
+}
