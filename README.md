@@ -1,6 +1,6 @@
 # Generate Unique String
 
-`generate-unique-string` generates a random string using english words and numbers. The code is developed based on the [random-words](https://github.com/apostrophecms/random-words).
+`generate-unique-string` generates a random string using english words and numbers. The code is developed based on the [random-words](https://github.com/apostrophecms/random-words) package.
 
 ### Installation
 
