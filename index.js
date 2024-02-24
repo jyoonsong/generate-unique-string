@@ -1,3 +1,4 @@
+import seedrandom from "seedrandom";
 import { WORDS } from "./dictionary";
 
 const shortestWordSize = WORDS.reduce((shortestWord, currentWord) =>
